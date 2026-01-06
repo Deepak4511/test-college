@@ -8,7 +8,6 @@ import Facilities from './components/Facilities';
 import FAQ from './components/FAQ';
 import ApplicationForm from './components/ApplicationForm';
 import Footer from './components/Footer';
-import GeminiAssistant from './components/GeminiAssistant';
 
 const App: React.FC = () => {
   return (
@@ -23,7 +22,6 @@ const App: React.FC = () => {
         <ApplicationForm />
       </main>
       <Footer />
-      <GeminiAssistant />
     </div>
   );
 };
