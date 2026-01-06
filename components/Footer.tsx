@@ -10,10 +10,10 @@ const Footer: React.FC = () => {
           <div className="space-y-8">
             <div className="flex items-center gap-2">
               <School className="w-8 h-8 text-[#E1AD01]" />
-              <span className="text-2xl font-bold tracking-tight">VERIDIAN</span>
+              <span className="text-2xl font-bold tracking-tight">Universal</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              Excellence in research, leadership in innovation. Veridian Global University is a leading institution dedicated to preparing students for global impact.
+              Excellence in research, leadership in innovation. Universal Global University is a leading institution dedicated to preparing students for global impact.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center hover:bg-[#E1AD01] transition-all"><Facebook size={20} /></a>
