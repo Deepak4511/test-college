@@ -26,7 +26,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between items-center">
           <div className="flex items-center gap-2">
             <School className={`w-8 h-8 ${scrolled ? 'text-white' : 'text-[#004B49]'}`} />
-            <span className={`text-xl font-bold tracking-tight ${scrolled ? 'text-white' : 'text-[#004B49]'}`}>VERIDIAN</span>
+            <span className={`text-xl font-bold tracking-tight ${scrolled ? 'text-white' : 'text-[#004B49]'}`}>Universal</span>
           </div>
 
           {/* Desktop Nav */}
