@@ -1,0 +1,8 @@
+{
+  "name": "Veridian Global University",
+  "description": "A magnificent, modern college website featuring academic courses, state-of-the-art facilities, and an AI-powered student assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
