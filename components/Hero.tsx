@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
               Magnificence in <span className="text-[#004B49]">Education</span> & Research.
             </h1>
             <p className="mt-6 text-lg text-gray-600 max-w-lg leading-relaxed">
-              Veridian Global University is where curiosity meets technology. Join a community of innovators, thinkers, and creators shaping tomorrow.
+              Universal Global University is where curiosity meets technology. Join a community of innovators, thinkers, and creators shaping tomorrow.
             </p>
           </div>
 
